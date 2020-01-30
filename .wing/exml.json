@@ -1,0 +1,25 @@
+{
+    "global": {
+        "globalAutoLayerMarkEnable": false,
+        "globalBindingDataTestObj": [],
+        "globalRulerEnable": false,
+        "gridColor": 12522259,
+        "gridEnabled": false,
+        "gridSize": 20
+    },
+    "16ff4f183f7": {
+        "bindingDataTestObj": [],
+        "backgroundX": 0,
+        "backgroundY": 0,
+        "backgroundWidth": -1,
+        "backgroundHeight": -1,
+        "useBgImage": true,
+        "useBgColor": true,
+        "backgroundAlpha": 100
+    },
+    "16ff65c38c4": {
+        "path": "Game\\GamePlay.ts",
+        "class": "GamePlay",
+        "parentPath": ""
+    }
+}

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="GamePlaySkin" width="640" height="1136" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing" xmlns:ns1="*" >
+	<w:Config id="16ff65c38c4" ></w:Config>
+	<e:Label text="back" x="215" y="360" textColor="0xe52424" size="50"/>
+	<e:Button id="back_btn" label="" x="353" y="633.34" anchorOffsetX="0" width="144" anchorOffsetY="0" height="109.33">
+		<e:skinName>
+			<e:Skin states="up,down,disabled">
+			<e:Image width="100%" height="100%" source="back_jpg"/>
+			<e:Label id="labelDisplay" horizontalCenter="0" verticalCenter="0"/>
+			</e:Skin>
+		</e:skinName>
+	</e:Button>
+</e:Skin>
